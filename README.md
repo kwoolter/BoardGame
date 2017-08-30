@@ -8,10 +8,10 @@ My version of Candy Crush!!!
 <table>
 <tr>
 <td>
-<img height=300 width=200 src="https://github.com/kwoolter/Tower2/blob/master/game_template/screenshots/title.PNG" alt="title">
+<img height=200 width=300 src="https://github.com/kwoolter/BoardGame/blob/master/src/boardgame/screenshots/board1.PNG" alt="board1">
+</td>
+<img height=200 width=300 src="https://github.com/kwoolter/BoardGame/blob/master/src/boardgame/screenshots/board2.PNG" alt="board2">
 </td>
 <td>
-<img height=300 width=200 src="https://github.com/kwoolter/Tower2/blob/master/game_template/screenshots/game1.PNG" alt="game1">
-</td>
 </tr>
 </table>
